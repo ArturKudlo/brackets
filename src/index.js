@@ -13,5 +13,6 @@ module.exports = function check(str, bracketsConfig) {
       }
     }
   } 
+  
   return all.length === 0;
 };
